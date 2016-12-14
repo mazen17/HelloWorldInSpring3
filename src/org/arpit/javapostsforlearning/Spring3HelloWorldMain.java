@@ -1,7 +1,7 @@
 package org.arpit.javapostsforlearning;
 
-import org.springframework.beans.factory.xml.XmlBeanFactory;  
-import org.springframework.core.io.ClassPathResource;  
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class Spring3HelloWorldMain {
 
